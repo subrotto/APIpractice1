@@ -97,16 +97,16 @@
 // // console.log(p1);
 // p1.display2();
 
-const student={
-name:'ananya',
-age:22,
-education:'b.sc',
-skill:{
-play:'heart'
-}
-};
+// const student={
+// name:'ananya',
+// age:22,
+// education:'b.sc',
+// skill:{
+// play:'heart'
+// }
+// };
 
-const stu1=JSON.stringify(student);
-console.log(stu1);
-const stu2=JSON.parse(stu1);
-console.log(stu2);
+// const stu1=JSON.stringify(student);
+// console.log(stu1);
+// const stu2=JSON.parse(stu1);
+// console.log(stu2);
